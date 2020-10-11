@@ -1,4 +1,4 @@
-#Currency exchange app
+# Currency Exchange App
 
 ## App Set up 
 
