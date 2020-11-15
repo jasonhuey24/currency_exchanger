@@ -10,7 +10,7 @@
 	 	<li>To activate on macOS & Linux: <code>source env/bin/activate</code></li>
 	 	<li>To active on Windows: <code>.\env\Scripts\activate</code></li>
 	</ol>
-	<ol>Install the requirements.txt file using command: <code>pip install -r requirements.txt</code></ol>
+	<li>Install the requirements.txt file using command: <code>pip install -r requirements.txt</code></li>
 	<li>Setting up FLASK_APP</li>
 	<ol>
 		<li>On MacOS & Linux: <code>export FLASK_APP=run.py</code></li>
