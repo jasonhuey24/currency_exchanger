@@ -6,7 +6,7 @@
 	<li>Navigate to the currency_exchanger directory</li>
 	<li>Set up a python environment and install the requirements.txt file</li>
 	<ol>
-		<li>Command: py -m venv env to create a python environment</li>
+		<li>Command: <code>py -m venv env</code> to create a python environment</li>
 	 	<li>To activate on macOS & Linux: <code>source env/bin/activate</code></li>
 	 	<li>To active on Windows: <code>.\env\Scripts\activate</code></li>
 	</ol>
